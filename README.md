@@ -5,7 +5,7 @@ A 2D top-down shooter game created using [Unity](https://unity.com/).
 ## Installation
 
 1. Download the [latest release](https://github.com/dyternal/heatblast-vs.-zombies/releases/tag/unity)
-2. Extract the zip file.
+2. Extract the rar file.
 3. Run the "ZombieGame" executable file.
 4. Enjoy!
 
