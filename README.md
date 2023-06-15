@@ -1,17 +1,27 @@
 # Heatblast vs. Zombies
 
-A 2D platformer game made in Unity 3D.
+A 2D top-down shooter game created using [Unity](https://unity.com/).
 
-## Controls
+## Installation
 
-- `W` or `Up Arrow` to jump
-- `A` or `Left Arrow` to move left
-- `D` or `Right Arrow` to move right
-- `Space` to shoot
-- `Esc` to pause
-- `R` to restart
-- `Q` to quit
+1. Download the [latest release](https://github.com/dyternal/heatblast-vs.-zombies/releases/tag/unity)
+2. Extract the rar file.
+3. Run the "ZombieGame" executable file.
+4. Enjoy!
 
-## Credits
+## Gameplay
 
-- **Programming**: [dyternal](https://www.fiverr.com/dyternal?up_rollout=true)
+The player controls the character Heatblast, who must shoot his fireball at enemies to survive.
+Kill zombies and level up, strengthen yourself with the skill points you earn and survive!
+
+### Controls
+
+* `W` - Move up
+* `A` - Move left
+* `S` - Move down
+* `D` - Move right
+* `Left Mouse Button` - Shoot fireball
+
+### Enemies
+
+* Zombies: Standard enemy. Walk and attack at the player.
