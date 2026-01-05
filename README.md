@@ -2,6 +2,8 @@
 
 A 2D top-down shooter game created using [Unity](https://unity.com/).
 
+ **[🎬 Gameplay Video](https://www.youtube.com/watch?v=ZWbs8XW3Vhs)** | **[🌐 Project Page](https://rhsakman.com/projects/heatblast_vs_zombies.html)**
+
 ## Installation
 
 1. Download the [latest release](https://github.com/dyternal/heatblast-vs.-zombies/releases/tag/unity)
